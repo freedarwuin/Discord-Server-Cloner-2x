@@ -1,15 +1,15 @@
-# Discord Server Cloner 2x
+# Clonador de servidores de Discord 2x
 
-*Support the project by leaving a :star:*
+*Apoya el proyecto dejando un: star:*
 
 ---
 
-## Overview
-This project was made to make your life easier, instead of spending hours trying to make your server as beautiful as possible you can simply clone a server with this tool
+## Descripción general
+Este proyecto se creó para hacerte la vida más fácil. En lugar de pasar horas intentando que tu servidor sea lo más atractivo posible, puedes simplemente clonar un servidor con esta herramienta.
 
-**More information:** [Cloner Website](https://cloner-one.vercel.app/)
+**Más información:** [Sitio web de Cloner](https://cloner-one.vercel.app/)
 
-## How to use
+## Cómo utilizar
 ```typescript
 $ pnpm i
 # or
@@ -17,7 +17,7 @@ $ npm i
 # or
 $ yarn add
 ```
-**Examples with tsx**
+**Ejemplos con tsx**
 ```typescript
 $ pnpm i -g tsx
 # or
@@ -27,7 +27,7 @@ $ npm i -g tsx
 ```typescript
 $ tsx .
 ```
-**You can also use [codesandbox](https://codesandbox.io/dashboard/recent) to start the cloner**
+**También puedes usar [codesandbox](https://codesandbox.io/dashboard/recent) para iniciar el clonador**
 
 ----
 
@@ -35,4 +35,4 @@ $ tsx .
 
 
 
-### Thank you for your support!
+### ¡Gracias por tu apoyo!
